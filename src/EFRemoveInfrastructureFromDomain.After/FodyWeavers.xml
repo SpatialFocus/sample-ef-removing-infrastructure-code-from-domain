@@ -1,0 +1,26 @@
+﻿<Weavers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="FodyWeavers.xsd">
+	<EmptyConstructor Visibility='family'>
+		<IncludeNamespaces>
+			EFRemoveInfrastructureFromDomain.After.Domain
+			EFRemoveInfrastructureFromDomain.After.Domain.*
+		</IncludeNamespaces>
+	</EmptyConstructor>
+	<SpatialFocus.EFLazyLoading>
+		<IncludeNamespaces>
+			EFRemoveInfrastructureFromDomain.After.Domain
+			EFRemoveInfrastructureFromDomain.After.Domain.*
+		</IncludeNamespaces>
+	</SpatialFocus.EFLazyLoading>
+	<SpatialFocus.AddSetter>
+		<IncludeNamespaces>
+			EFRemoveInfrastructureFromDomain.After.Domain
+			EFRemoveInfrastructureFromDomain.After.Domain.*
+		</IncludeNamespaces>
+	</SpatialFocus.AddSetter>
+	<Virtuosity>
+		<IncludeNamespaces>
+			EFRemoveInfrastructureFromDomain.After.Domain
+			EFRemoveInfrastructureFromDomain.After.Domain.*
+		</IncludeNamespaces>
+	</Virtuosity>
+</Weavers>
